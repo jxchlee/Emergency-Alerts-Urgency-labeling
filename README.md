@@ -1,4 +1,4 @@
-# 한국 재난 문자 데이터셋 (Korean Emergency Alerts Dataset)
+# 한국 재난 문자 응급도 라벨링 데이터셋 (Korean Emergency Alerts Urgency Labeling Dataset)
 
 이 데이터는 [재난 안전 데이터 공유 플랫폼](https://www.safetydata.go.kr/disaster-data/disasterNotification) 을 크롤링하여 응급도를 라벨링한 데이터입니다.
 
